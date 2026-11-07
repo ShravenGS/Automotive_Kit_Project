@@ -13,6 +13,6 @@ The project follows a structured hardware development approach, covering:
 
 Objective: To develop a practical ESP32-S3 hardware platform while gaining hands-on experience in professional PCB design practices and embedded hardware development
 
-EDA Tool: Orcad Capture CIS and Allgero
+_EDA Tool: Orcad Capture CIS and Allgero_
 
-Application Areas: Embedded Systems, IoT, and Hardware Prototyping.
+_Application Areas: Embedded Systems, IoT, and Hardware Prototyping._
